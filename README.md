@@ -1,6 +1,6 @@
 # Olympic-Medals-vs-GDP
 
-
+![img.png](banner-readme.jpg)
 
 ## Context
 
