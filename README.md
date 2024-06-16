@@ -38,6 +38,8 @@ El projecte es troba en [aquest repositori públic de GitHub](https://github.com
     │   │     
     │   ├─── Source
     │   │        *.*
+    │   ├─── Input
+    │   │        *.*
     │   └─── Output
     │            *.*
     │
@@ -48,6 +50,7 @@ El projecte es troba en [aquest repositori públic de GitHub](https://github.com
 ```
 - **Dev/\*.\***: Documents amb el codi relatiu al processament de les dades, realitzats en Python3 sobre Jupiter Notebook.
 - **Data/Source/\*.\***: Fitxers corresponents als datasets de les fonts de dades.
+- **Data/Input/\*.\***: Altres fitxers addicionals d'entrada, necessaris per fer el processament dels datasets de les fonts de dades.
 - **Data/Output/\*.\***: Fitxers generats a partir de les fonts de dades i que constitueixen (directament o indirectament) els datasets d'entrada a les diferents visualitzacions en Flourish.
 - **LICENSE**: Document amb els termes de la llicència aplicada al projecte.
 - **README.md**: Document explicatiu del projecte.
