@@ -12,7 +12,7 @@ L'objectiu és implementar un projecte de visualització de dades que reculli to
 
 El lliurable principal de la pràctica és un vídeo que implementa un *storytelling* que reflexiona sobre la relació entre el nivell esportiu d'un país, mesurat per les medalles olímpiques aconseguides en els jocs d'estiu del 1960 al 2020, i el seus PIB i PIB per càpita. 
 
-El vídeo està allotjat a Youtube i és accessible en aquest [enllaç](https://www.youtube.com/watch?v=Ys_u14hhKcc).
+**El vídeo està allotjat a Youtube i és accessible en aquest [enllaç](https://www.youtube.com/watch?v=Ys_u14hhKcc).**
 
 ## Fonts de dades
 
