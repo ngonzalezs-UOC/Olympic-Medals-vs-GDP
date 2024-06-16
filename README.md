@@ -10,7 +10,7 @@ L'objectiu és implementar un projecte de visualització de dades que reculli to
 
 ## Lliurable principal de la pràctica
 
-El lliurable principal de la pràctica és un video que implementa un *storytelling* que reflexiona sobre la relació entre el nivell esportiu d'un país, mesurat per les medalles olímpiques aconseguides en els jocs d'estiu del 1960 al 2020, i el seus PIB i PIB per càpita.
+El lliurable principal de la pràctica és un vídeo que implementa un *storytelling* que reflexiona sobre la relació entre el nivell esportiu d'un país, mesurat per les medalles olímpiques aconseguides en els jocs d'estiu del 1960 al 2020, i el seus PIB i PIB per càpita.
 
 ## Fonts de dades
 
@@ -20,7 +20,7 @@ Les fonts de dades són el [Comitè Olímpic Internacional (IOC)](https://olympi
 
 ## Accés a les històries de Flourish
 
-El video es basa en dues històries desenvolupades amb l'eina [Flourish](https://flourish.studio/), accessibles de manera pública a les següents ubicacions:
+El vídeo es basa en dues històries desenvolupades amb l'eina [Flourish](https://flourish.studio/), accessibles de manera pública a les següents ubicacions:
 - [Olympic Medals vs GDP (Part I)](https://public.flourish.studio/story/2389611/)
 - [Olympic Medals vs GDP (Part II)](https://public.flourish.studio/story/2435673/)
 
