@@ -21,8 +21,8 @@ L'orígen de les dades són el [Comitè Olímpic Internacional](https://olympics
 ## Accés a les històries de Flourish
 
 El video es basa en dues històries desenvolupades amb l'eina [Flourish](https://flourish.studio/), accessibles de manera pública a les següents ubicacions:
-- [Olympic Medals vs GDP (Part I](https://public.flourish.studio/story/2389611/)
-- [Olympic Medals vs GDP (Part II](https://public.flourish.studio/story/2435673/)
+- [Olympic Medals vs GDP (Part I)](https://public.flourish.studio/story/2389611/)
+- [Olympic Medals vs GDP (Part II)](https://public.flourish.studio/story/2435673/)
 
 ## Repositori
 
