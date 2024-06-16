@@ -14,7 +14,7 @@ El lliurable principal de la pràctica és un video que implementa un *storytell
 
 ## Fonts de dades
 
-L'orígen de les dades són el [Comitè Olímpic Internacional (IOC)](https://olympics.com/ioc) i el [Banc Mundial (WB)](https://www.worldbank.org/), a través dels següents conjunts de dades (*datesets*):
+Les fonts de dades són el [Comitè Olímpic Internacional (IOC)](https://olympics.com/ioc) i el [Banc Mundial (WB)](https://www.worldbank.org/), a través dels següents conjunts de dades (*datesets*):
 - IOC: [indirectament a través d'aquest dataset de Kaggle](https://www.kaggle.com/datasets/piterfm/olympic-games-medals-19862018)
 - WB: [PIB](https://datos.bancomundial.org/indicador/NY.GDP.MKTP.CD) i [PIB per càpita](https://datos.bancomundial.org/indicador/NY.GDP.PCAP.CD)
 
